@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://tobiasguta.github.io/tobiasWeb.github.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Globe_icon_2.svg/1200px-Globe_icon_2.svg.png" width="52" height="40" alt="Website logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/globe.svg" width="52" height="40" alt="Website logo" />
   </a>
 </div>
 
