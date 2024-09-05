@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://tobiasguta.github.io/tobiasWeb.github.io/" target="_blank">
-    <i class="fas fa-globe" style="font-size: 40px; color: #000;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Globe_icon_2.svg/1200px-Globe_icon_2.svg.png" width="52" height="40" alt="Website logo" />
   </a>
 </div>
 
