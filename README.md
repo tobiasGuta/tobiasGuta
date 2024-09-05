@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://tobiasguta.github.io/tobiasWeb.github.io/" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful-1/2048/5349_-_Firefox-512.png" alt="Website" width="32" height="32"/>
+    <img src="https://www.svgrepo.com/show/477058/internet.svg" alt="Website" width="32" height="32"/>
   </a>
 </div>
 
