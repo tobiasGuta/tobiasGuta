@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://tobiasguta.github.io/tobiasWeb.github.io/" target="_blank">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/globe.svg" alt="Website" width="32" height="32"/>
   </a>
 </div>
 
