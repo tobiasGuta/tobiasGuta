@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://tobiasguta.github.io/tobiasWeb.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="52" height="40" alt="Website logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/globe.svg" width="52" height="40" alt="Website logo" />
   </a>
 </div>
 
