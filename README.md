@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://tobiasguta.github.io/tobiasWeb.github.io/" target="_blank">
-    <img src="https://www.svgrepo.com/show/477058/internet.svg" alt="Website" width="32" height="32"/>
+    <img src="https://www.svgrepo.com/show/477058/internet.svg" alt="Website" width="40" height="40"/>
   </a>
 </div>
 
