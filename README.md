@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://tobiasguta.github.io/tobiasWeb.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/globe.svg" width="52" height="40" alt="Website logo" />
+    <i class="fas fa-globe" style="font-size: 40px; color: #000;"></i>
   </a>
 </div>
 
