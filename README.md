@@ -51,11 +51,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   
-  <a href="https://x.com/usuarioxero" target="_blank">
+  <a href="https://x.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
   </a>
 
-  <a href="https://medium.com/@World-Breaker" target="_blank">
+  <a href="https://medium.com/" target="_blank">
     <img src="https://www.svgrepo.com/show/353201/medium-with-circle.svg" width="52" height="40" alt="Medium logo" />
   </a>
 
