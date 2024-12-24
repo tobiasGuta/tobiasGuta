@@ -7,7 +7,11 @@
 I'm a Tobias Arevalo passionate about Technology.
 
 ## 🚀 Skills
-- JavaScript | Python | [Other Languages]
+- <div>
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
+  Java
+</div>
+
 - React | Node.js | [Other Frameworks]
 
 ## 📈 GitHub Stats
