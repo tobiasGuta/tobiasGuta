@@ -1,6 +1,6 @@
 # Hi there, I'm Tobias! 👋
 
-I'm a [Your Profession/Interest] passionate about [Your Interests].
+I'm a Tobias Arevalo passionate about Technology.
 
 ## 🚀 Skills
 - JavaScript | Python | [Other Languages]
