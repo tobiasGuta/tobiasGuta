@@ -32,7 +32,6 @@ I'm a Tobias Arevalo passionate about Technology.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-- [Twitter](your-twitter-url)
 
 ## 🎨 Fun Fact
 I love [Hobby/Interest] and enjoy [another interest].
