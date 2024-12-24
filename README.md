@@ -4,7 +4,7 @@
 
 # Hi there 👋,
 
-I'm a Tobias Arevalo passionate about Technology.
+I'm a Tobias A passionate about Technology.
 
 
 ### :woman_technologist: About Me :
