@@ -20,7 +20,7 @@ I'm a Tobias Arevalo passionate about Technology.
 </div>
 
 - <div>
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
 </div>
 
 - <div>
