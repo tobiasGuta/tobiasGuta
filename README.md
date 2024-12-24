@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="![image](https://github.com/user-attachments/assets/416fa885-aca5-441c-ac48-6574b48c6914)
-" width="100"/>
-</div>
+<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
 
 # Hi there, I'm Tobias! 👋
 
