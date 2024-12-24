@@ -16,7 +16,7 @@ I'm a Tobias Arevalo passionate about Technology.
 </div>
 
 - <div>
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmo1MDVpNTFvOHk4Y2lucnRoZXVjM3Bmdnc5cnhuOHhwNjVzcm9iYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
 </div>
 
 - <div>
