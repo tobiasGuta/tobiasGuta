@@ -4,7 +4,7 @@
 
 # Hi there 👋,
 
-I'm a Tobias A passionate about Technology.
+I’m Tobias, a person passionate about technology.
 
 
 ### :woman_technologist: About Me :
