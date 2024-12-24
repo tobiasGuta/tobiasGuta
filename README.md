@@ -8,10 +8,6 @@ I'm a Tobias Arevalo passionate about Technology.
 
 ## 🚀 Skills
 - <div>
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
-</div>
-
-- <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMyMHp4cDNuNmd0ZDV4ZjZnaW93M2ZzZ3k1dDFwaWhleGNkbWQzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
 </div>
 
