@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47ts664qd87t5du15uzx0uut9h7iqyahx1xbp1e0a9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="700" height="400"/>
 </div>
 
-# Hi there, I'm Tobias! 👋
+# Hi there 👋,
 
 I'm a Tobias Arevalo passionate about Technology.
 
