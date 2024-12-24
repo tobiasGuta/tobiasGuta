@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20zbGs1eXlicG1wejU5NG43MXJtYXV3Y2NiNjJjMTZhMWp6MnNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp" width="700" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20zbGs1eXlicG1wejU5NG43MXJtYXV3Y2NiNjJjMTZhMWp6MnNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp" width="700" height="400"/>
 </div>
 
 # Hi there, I'm Tobias! 👋
