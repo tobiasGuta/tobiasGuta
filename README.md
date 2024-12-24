@@ -48,6 +48,3 @@ I’m eager to apply my skills in a collaborative environment, solve complex cyb
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-## 🎨 Fun Fact
-I love [Hobby/Interest] and enjoy [another interest].
