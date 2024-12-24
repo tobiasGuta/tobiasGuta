@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="![image](https://github.com/user-attachments/assets/416fa885-aca5-441c-ac48-6574b48c6914)
+" width="100"/>
 </div>
 
 # Hi there, I'm Tobias! 👋
