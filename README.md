@@ -6,22 +6,34 @@
 
 I'm a Tobias Arevalo passionate about Technology.
 
+
+### :woman_technologist: About Me :
+🌟 My Journey:
+What started as curiosity has turned into a mission. Every challenge I solve, every vulnerability I uncover, pushes me closer to becoming a well-rounded cybersecurity professional.
+
+🛠️ Skills I’m Growing:
+From penetration testing and bug bounties to understanding SOC workflows and query languages, I’m constantly expanding my skill set.
+
+📢 Sharing the Knowledge:
+On my profile, I share what I’m learning—tools, techniques, and insights I pick up along the way—because I believe in growing together with the cybersecurity community.
+
+🌐 Why Cybersecurity?
+I thrive on solving puzzles and protecting what matters most in the digital space. It’s a field where learning never stops, and I’m here for it.
+
+💼 What I’m Looking For:
+I’m eager to apply my skills in a collaborative environment, solve complex cybersecurity challenges, and contribute to innovative projects. I’m also excited to grow through hands-on experience and mentorship from industry experts.
+
 ## 🚀 Skills
-- <div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMyMHp4cDNuNmd0ZDV4ZjZnaW93M2ZzZ3k1dDFwaWhleGNkbWQzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMyMHp4cDNuNmd0ZDV4ZjZnaW93M2ZzZ3k1dDFwaWhleGNkbWQzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
+  
+  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b95273ms3d3574micyjg5j21p4ra8o0kfb3a29k4dqi7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
+  
+  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
+  
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
 </div>
 
-- <div>
-  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b95273ms3d3574micyjg5j21p4ra8o0kfb3a29k4dqi7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
-</div>
-
-- <div>
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
-</div>
-
-- <div>
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" style="vertical-align: middle; float: left; margin-right: 5px;"/>
-</div>
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobiasGuta&show_icons=true)
