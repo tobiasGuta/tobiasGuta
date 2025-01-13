@@ -37,7 +37,7 @@ I’m eager to apply my skills in a collaborative environment, solve complex cyb
   
   <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
   
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
+
 </div>
 
 
