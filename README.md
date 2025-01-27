@@ -24,7 +24,6 @@ I thrive on solving puzzles and protecting what matters most in the digital spac
 I’m eager to apply my skills in a collaborative environment, solve complex cybersecurity challenges, and contribute to innovative projects. I’m also excited to grow through hands-on experience and mentorship from industry experts.
 
 ### :fire: My Stats : GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tobiasGuta&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasGuta&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
