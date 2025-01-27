@@ -25,6 +25,9 @@ I’m eager to apply my skills in a collaborative environment, solve complex cyb
 
 ### :fire: My Stats : GitHub Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiasGuta&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasGuta&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
