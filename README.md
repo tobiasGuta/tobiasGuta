@@ -32,7 +32,25 @@ Whule the journey has been challenging, I truly enjoy every step of it, whether 
 -  Earn industry certification like Comptia security+, CHE, JPE, eJPT
 -  Collaborate with other to solve complex security challenges.
 
-### :fire: My Stats : GitHub Stats
+#
+
+### Languages and Tools
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="pycharm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+  <img alt="linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="sql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
+
+#
+
+### GitHub Stats
 
 ![tobiasGuta's Stats](https://github-readme-stats.vercel.app/api?username=tobiasGuta&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
@@ -40,19 +58,11 @@ Whule the journey has been challenging, I truly enjoy every step of it, whether 
 ![tobiasGuta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasGuta&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 
-### :hammer_and_wrench: 🚀 Skills
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMyMHp4cDNuNmd0ZDV4ZjZnaW93M2ZzZ3k1dDFwaWhleGNkbWQzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
-  
-  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b95273ms3d3574micyjg5j21p4ra8o0kfb3a29k4dqi7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
-  
-  <img src="https://raw.githubusercontent.com/Rokawoo/Rokawoo/main/Logos/CSS3.gif" width="30" height="30" style="vertical-align: middle; margin-right: 5px;"/>
-  
 
-</div>
+          
+          
+          
 
 
 
-## 🔗 Connect with me
 
-</div>
