@@ -2,26 +2,29 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47ts664qd87t5du15uzx0uut9h7iqyahx1xbp1e0a9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="700" height="400"/>
 </div>
 
-# Hi there 👋,
+<h1>Hi there, I'm Tobias👋,</h1> 
 
-I’m Tobias, a person passionate about technology.
+**`CyberSecurity Student`**
 
+<div id="badges" style="text-align: center; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/tobias-a-3a620627b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-### :woman_technologist: About Me :
-🌟 My Journey:
-What started as curiosity has turned into a mission. Every challenge I solve, every vulnerability I uncover, pushes me closer to becoming a well-rounded cybersecurity professional.
+I'm currently a **cybersecurity students** with a passion for learning and exploring the depths of cybersecurity. My journy has been self-driven, and I've been teaching myself the ins and outs of this fascinating field.
 
-🛠️ Skills I’m Growing:
-From penetration testing and bug bounties to understanding SOC workflows and query languages, I’m constantly expanding my skill set.
+Whule the journey has been challenging, I truly enjoy every step of it, whether it's diving into ehical hacking, or undertanding to protect systems from vulnerabilities.
 
-📢 Sharing the Knowledge:
-On my profile, I share what I’m learning—tools, techniques, and insights I pick up along the way—because I believe in growing together with the cybersecurity community.
+### What I'm Working On 🛠️
+- Learning about **Penetration testing**, **secure coding practices**, **New Cybersecurity tools*
+- Building projects to apply my knowledge in real-world sceneratios.
+- Documenting my learning process to help others who are on a similar path.
 
-🌐 Why Cybersecurity?
-I thrive on solving puzzles and protecting what matters most in the digital space. It’s a field where learning never stops, and I’m here for it.
+### My Goals 🎯
 
-💼 What I’m Looking For:
-I’m eager to apply my skills in a collaborative environment, solve complex cybersecurity challenges, and contribute to innovative projects. I’m also excited to grow through hands-on experience and mentorship from industry experts.
+-  Contribute to open-source security tools.
+-  Earn industry certification like Comptia security+, CHE, JPE, eJPT
+-  Collaborate with other to solve complex security challenges.
 
 ### :fire: My Stats : GitHub Stats
 
@@ -45,8 +48,5 @@ I’m eager to apply my skills in a collaborative environment, solve complex cyb
 
 
 ## 🔗 Connect with me
-<div id="badges" style="text-align: center; margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/tobias-a-3a620627b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
 </div>
