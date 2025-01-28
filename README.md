@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/tobiasGuta?style=for-the-badge">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tobiasGuta?style=for-the-badge">
+
+
 
 
 
