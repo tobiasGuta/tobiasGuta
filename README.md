@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/tobias-a-3a620627b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/tobiasGuta?style=for-the-badge">
+
+
 
 I'm currently a **cybersecurity students** with a passion for learning and exploring the depths of cybersecurity. My journy has been self-driven, and I've been teaching myself the ins and outs of this fascinating field.
 
