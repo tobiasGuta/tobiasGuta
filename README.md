@@ -22,7 +22,7 @@ I'm currently a **cybersecurity students** with a passion for learning and explo
 Whule the journey has been challenging, I truly enjoy every step of it, whether it's diving into ehical hacking, or undertanding to protect systems from vulnerabilities.
 
 ### What I'm Working On 🛠️
-- Learning about **Penetration testing**, **secure coding practices**, **New Cybersecurity tools*
+- Learning about **Penetration testing**, **secure coding practices**, **New Cybersecurity tools**
 - Building projects to apply my knowledge in real-world sceneratios.
 - Documenting my learning process to help others who are on a similar path.
 
