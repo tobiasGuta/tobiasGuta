@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/tobias-a-3a620627b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/tobias-a-3a620627b/" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/tobiasGuta?style=for-the-badge">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tobiasGuta?style=for-the-badge">
 
