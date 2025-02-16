@@ -61,7 +61,7 @@ I'm currently a cybersecurity students with a passion for learning and exploring
 
 
 <div align="center">
-  <a href="https://github.com/tobiasGuta/FTPHunter">
+  <a href="https://github.com/tobiasGuta/GeminiTerminal">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiasGuta&repo=GeminiTerminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
