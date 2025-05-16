@@ -50,7 +50,10 @@ I'm a cybersecurity student out of New York, self-taught, curious, and obsessed 
 
 ---
 
-### 🛡️ TryHackMe Badge
+<div align="center">
+  <h3>🛡️ TryHackMe Badges</h3>
+</div>
+
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/W0rldBr3ak3r.png" alt="Your Image Badge" />
 </div>
