@@ -50,7 +50,11 @@ I'm a cybersecurity student out of New York, self-taught, curious, and obsessed 
 
 ---
 
-### 📈 GitHub Stats
+<div align="center">
+  <h3>📈 GitHub Stats</h3>
+</div>
+
+
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=tobiasGuta&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
@@ -60,7 +64,9 @@ I'm a cybersecurity student out of New York, self-taught, curious, and obsessed 
 
 ---
 
-### 🔍 Featured Projects
+<div align="center">
+  <h3>🔍 Featured Projects</h3>
+</div>
 
 <div align="center">
   <a href="https://github.com/tobiasGuta/GeminiTerminal">
@@ -78,7 +84,10 @@ I'm a cybersecurity student out of New York, self-taught, curious, and obsessed 
 
 ---
 
-### ☕ Support My Journey
+<div align="center">
+  <h3>☕ Support My Journey</h3>
+</div>
+
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/tobiasguta">
