@@ -10,7 +10,7 @@
 
 ### 🧬 About Me
 
-I'm a cybersecurity student out of New York, self-taught, curious, and obsessed with breaking and securing things. My journey’s been DIY—learning by doing, failing, building, and grinding every day in the lab and the field.
+I'm a cybersecurity student out of New York, self-taught, curious, and obsessed with breaking and securing things. My journey’s been DIY learning by doing, failing, building, and grinding every day in the lab and the field.
 
 > 🧠 "Every exploit is a lesson. Every system tells a story."
 
