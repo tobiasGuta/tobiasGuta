@@ -27,7 +27,6 @@ I'm a cybersecurity student out of New York, self-taught, curious, and obsessed 
 
 ### 🧠 What I’m Learning
 
-- 🧰 Nmap, Burp Suite, Metasploit, and custom recon scripts
 - 💡 Contributing to open-source infosec tools
 - 📜 Studying for **Security+**, **eJPT**, **CEH**, and beyond
 - 🤝 Collaborating on community CTFs and bug bounty projects
