@@ -2,7 +2,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/4b9b1b3d-7906-4f6e-8d1b-cb7238cde1b9)
 
 
-<h1 align="center">Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> I'm Tobias Are</h1>
+<h1 align="center">Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /></h1>
 
 <p align="center">💻 Junior Penetration Tester | 🧠 Lifelong Hacker-in-Training | 🕵️ Bug Hunter</p>
 
