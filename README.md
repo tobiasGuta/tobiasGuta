@@ -50,16 +50,6 @@ I'm a cybersecurity student out of New York, self-taught, curious, and obsessed 
 ---
 
 <div align="center">
-  <h3>🛡️ TryHackMe Badges</h3>
-</div>
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/TobiasGuta.png" alt="Your Image Badge" />
-</div>
-
----
-
-<div align="center">
   <h3>📈 GitHub Stats</h3>
 </div>
 
