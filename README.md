@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 ![github-header-image](https://github.com/user-attachments/assets/d521b193-543f-4d36-8d66-95730041defc)
 
 <h1 align="center">Tobias Guta</h1>
