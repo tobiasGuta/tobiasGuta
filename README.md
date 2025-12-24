@@ -69,7 +69,11 @@ Currently, I am expanding my methodology in developing custom Burp Suite extensi
 ### 📝 Latest Write-ups
 
 <!-- BLOG-POST-LIST:START -->
-
+- [byp4ss3d PicoCTF](/blog/byp4ss3d_PicoCTF)
+- [When Input Becomes Injection](/blog/Input-sql-Injection)
+- [Weak JWT Secrets: How ‘secret’ Breaks Your Auth](/blog/Weak-JWT-Secret)
+- [WebSockFish PicoCTF](/blog/WebSockFishPicoCtf)
+- [SSTI2 PicoCTF](/blog/SSTI2PicoCTF)
 <!-- BLOG-POST-LIST:END -->
 
 ---
