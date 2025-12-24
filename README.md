@@ -66,7 +66,7 @@ Currently, I am expanding my methodology in developing custom Burp Suite extensi
 
 ---
 
-### Latest Write-ups
+### 📝 Latest Write-ups
 
 ---
 
