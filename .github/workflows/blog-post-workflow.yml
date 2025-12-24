@@ -17,3 +17,4 @@ jobs:
           max_post_count: 5
           feed_list: "https://whoistob1as.me/feed.xml"
           readme_path: "./README.md"
+          template: "- [$title](https://whoistob1as.me$url)"
