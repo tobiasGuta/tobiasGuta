@@ -7,6 +7,9 @@
 ![github-header-image](https://github.com/user-attachments/assets/d521b193-543f-4d36-8d66-95730041defc)
 
 <h1 align="center">Tobias Guta</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tobiasGuta.tobiasGuta&"  />
+</div>
 
 <p align="center">
   <b>Security Researcher | Bug Hunter | Student</b>
