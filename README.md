@@ -66,6 +66,10 @@ Currently, I am expanding my methodology in developing custom Burp Suite extensi
 
 ---
 
+### Latest Write-ups
+
+---
+
 <div align="center">
   <a href="https://www.buymeacoffee.com/tobiasguta">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
