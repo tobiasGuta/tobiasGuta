@@ -51,23 +51,3 @@ Currently, I am expanding my methodology in developing custom Burp Suite extensi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-
----
-
-<div align="center">
-  <h3>Featured Projects</h3>
-</div>
-
-<div align="center">
-  <a href="https://github.com/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiasGuta&repo=Next.js-RSC-RCE-Scanner-Burp-Suite-Extension&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/tobiasguta">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-  </a>
-</div>
