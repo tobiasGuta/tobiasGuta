@@ -59,13 +59,6 @@ Currently, I am expanding my methodology in developing custom Burp Suite extensi
 </div>
 
 <div align="center">
-  <a href="https://github.com/tobiasGuta/GeminiTerminal">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiasGuta&repo=GeminiTerminal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-  <a href="https://github.com/tobiasGuta/FTPHunter">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiasGuta&repo=FTPHunter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-  <br><br>
   <a href="https://github.com/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tobiasGuta&repo=Next.js-RSC-RCE-Scanner-Burp-Suite-Extension&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
