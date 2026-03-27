@@ -44,7 +44,7 @@ I hope you find something useful in my repositories. Feel free to reach out, col
 **See you around!** ✌️
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="600px" />
+  <img src="https://github.com/user-attachments/assets/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br />
