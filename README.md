@@ -7,14 +7,11 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/d521b193-543f-4d36-8d66-95730041defc)
 
-<h1 align="center">Tobias Guta</h1>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tobiasGuta.tobiasGuta&" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=70B1E1&center=true&vCenter=true&width=435&lines=TOBIAS" alt="Name" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Security+Researcher;Bug+Hunter;Cybersecurity+Student" alt="Roles" />
 </div>
-
-<p align="center">
-  <b>Security Researcher | Bug Hunter | Student</b>
-</p>
 
 <p align="center">
   New York based cybersecurity student focused on offensive security, vulnerability research, and digital forensics.
@@ -24,9 +21,7 @@
 
 ### About
 
-I am a security researcher and bug hunter with a strong focus on web application security and network analysis. My work involves identifying critical vulnerabilities, automating reconnaissance workflows, and developing custom security tools.
-
-Currently, I am expanding my methodology in developing custom Burp Suite extensions, and deepening my knowledge in malware analysis and reverse engineering.
+I am a security researcher and bug hunter with a strong focus on web application security. My work involves identifying critical vulnerabilities and developing custom security tools.
 
 ---
 
