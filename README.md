@@ -31,11 +31,23 @@
   </tr>
 </table>
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,js,powershell,mysql,linux,git,kali,docker,androidstudio,php,postman)](https://skillicons.dev)
 
+###  Beyond the Hunt
 
+While my focus is often on security, I am a **builder at heart**. I believe that powerful tools should be accessible to everyone whether they are offensive, defensive, or just designed to make life easier. I’m a strong advocate for **Open Source** and the idea that software is meant to be shared freely.
+
+I hope you find something useful in my repositories. Feel free to reach out, collaborate, or just say hi!
+
+**See you around!** ✌️
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="600px" />
+</div>
+
+<br />
 
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&reversal=false" />
