@@ -17,17 +17,28 @@
   New York based cybersecurity student focused on offensive security, vulnerability research, and digital forensics.
 </p>
 
----
-
-### About
-
-I am a security researcher and bug hunter with a strong focus on web application security. My work involves identifying critical vulnerabilities and developing custom security tools.
-
----
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3> About Me</h3>
+      <p>
+        I am a <b>security researcher</b> and <b>bug hunter</b> with a strong focus on web application security and network analysis. My work involves identifying critical vulnerabilities, automating reconnaissance workflows, and developing custom security tools.
+      </p>
+      <p>
+        Currently, I am expanding my methodology in developing custom Burp Suite extensions and deepening my knowledge in malware analysis and reverse engineering.
+      </p>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Technical Arsenal
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,js,powershell,mysql,linux,git,kali,docker,androidstudio,php,postman)](https://skillicons.dev)
+
+
 
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&reversal=false" />
