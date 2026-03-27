@@ -33,3 +33,7 @@ Currently, I am expanding my methodology in developing custom Burp Suite extensi
 ### 🛠️ Technical Arsenal
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,js,powershell,mysql,linux,git,kali,docker,androidstudio,php,postman)](https://skillicons.dev)
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&reversal=false" />
+</div>
