@@ -24,9 +24,6 @@
       <p>
         I am a <b>security researcher</b> and <b>bug hunter</b> with a strong focus on web application security and network analysis. My work involves identifying critical vulnerabilities, automating reconnaissance workflows, and developing custom security tools.
       </p>
-      <p>
-        Currently, I am expanding my methodology in developing custom Burp Suite extensions and deepening my knowledge in malware analysis and reverse engineering.
-      </p>
     </td>
     <td width="40%" valign="center" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
