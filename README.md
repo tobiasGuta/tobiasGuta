@@ -5,7 +5,7 @@
 
 ###
 
-![github-header-image](https://github.com/user-attachments/assets/d521b193-543f-4d36-8d66-95730041defc)
+![github-header-image](https://github.com/user-attachments/assets/8e80bc31-a17d-4f11-98f9-ecbb24b87dc1)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=70B1E1&center=true&vCenter=true&width=435&lines=TOBIAS" alt="Name" />
