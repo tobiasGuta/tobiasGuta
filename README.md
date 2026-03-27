@@ -29,6 +29,13 @@ I am a security researcher and bug hunter with a strong focus on web application
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,js,powershell,mysql,linux,git,kali,docker,androidstudio,php,postman)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobiasGuta&theme=cobalt&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+> [!NOTE]
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cobalt" alt="Daily Quote" />
+
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&reversal=false" />
 </div>
