@@ -33,7 +33,7 @@
 
 ###  Technical Arsenal
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,js,powershell,mysql,linux,git,kali,docker,androidstudio,php,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,js,powershell,mysql,linux,git,kali,docker,androidstudio,php,postman,html,css)](https://skillicons.dev)
 
 ###  Beyond the Hunt
 
