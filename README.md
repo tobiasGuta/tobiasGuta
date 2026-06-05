@@ -12,7 +12,13 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Security+Researcher;Bug+Hunter;Cybersecurity+Student" alt="Roles" />
 </div>
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=tobiasGuta&color=70B1E1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/tobiasGuta?style=for-the-badge&color=70B1E1)
+![Stars](https://img.shields.io/github/stars/tobiasGuta?style=for-the-badge&color=70B1E1)
+
+</div>
 <p align="center">
   New York based cybersecurity student focused on offensive security, vulnerability research, and digital forensics.
 </p>
@@ -31,9 +37,20 @@
   </tr>
 </table>
 
-###  Technical Arsenal
+### Technical Arsenal
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,js,powershell,mysql,linux,git,kali,docker,androidstudio,php,postman,html,css)](https://skillicons.dev)
+<div align="center">
+
+#### Languages
+<img src="https://skillicons.dev/icons?i=py,bash,js,php,mysql,html,css" />
+
+#### Security / OS
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,powershell" />
+
+#### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio" />
+
+</div>
 
 ###  Beyond the Hunt
 
