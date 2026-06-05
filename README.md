@@ -3,6 +3,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
+
 ###
 
 ![github-header-image](https://github.com/user-attachments/assets/8e80bc31-a17d-4f11-98f9-ecbb24b87dc1)
@@ -17,6 +18,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tobiasGuta&color=70B1E1&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/tobiasGuta?style=for-the-badge&color=70B1E1)
 ![Stars](https://img.shields.io/github/stars/tobiasGuta?style=for-the-badge&color=70B1E1)
+
+### Mission
+
+<div align="center">
+
+![Web Security](https://img.shields.io/badge/Web%20Security-Active-70B1E1?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Hunting-0A192F?style=for-the-badge&logo=hackerone&logoColor=white)
+![Recon](https://img.shields.io/badge/Recon-Automation-70B1E1?style=for-the-badge&logo=python&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Learning-0A192F?style=for-the-badge&logo=gnubash&logoColor=white)
+![Forensics](https://img.shields.io/badge/Digital%20Forensics-Practicing-70B1E1?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
 
 </div>
 <p align="center">
@@ -50,6 +63,12 @@
 #### Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio" />
 
+</div>
+
+### Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tobiasGuta&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ###  Beyond the Hunt
